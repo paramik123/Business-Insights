@@ -1,1 +1,2 @@
-# Business-Insights
+Designed dashboards in Power BI for a computer peripheral selling company showing financial, sales, marketing and supply chain dashboards, thereby showing various insights for the stakeholders. Performed data modeling from scratch, data validation and improved query performance by 20%. Implemented various stakeholder feedbacks and changes in the later stages of development. Implemented DAX queries to build calculated columns and measures for designing various KPIs.
+
